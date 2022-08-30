@@ -1,4 +1,4 @@
-import { Health } from "./health";
+import { Health } from "../models/Health";
 
 export class HealthService {
   public get(): Health {
