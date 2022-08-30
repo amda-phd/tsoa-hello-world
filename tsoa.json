@@ -7,7 +7,6 @@
     "specVersion": 3
   },
   "routes": {
-    "basePath": "/api/v1",
     "routesDir": "src/routes"
   }
 }
